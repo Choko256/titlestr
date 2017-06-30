@@ -1,0 +1,19 @@
+{
+  "name": "titlestr",
+  "version": "1.0.0",
+  "description": "Very tiny utility to Title a string in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choko256/titlestr.git"
+  },
+  "author": "Michael Chacaton <chako256@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Choko256/titlestr/issues"
+  },
+  "homepage": "https://github.com/Choko256/titlestr#readme"
+}
